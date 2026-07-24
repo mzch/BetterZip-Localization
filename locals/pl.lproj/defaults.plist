@@ -178,7 +178,7 @@
 			<key>moveArchiveTo</key>
 			<string>4</string>
 			<key>name</key>
-			<string>Extract &amp; Trash</string>
+			<string>Wypakuj i skasuj archiwum</string>
 			<key>openExtracted</key>
 			<false/>
 			<key>overwriteWithoutWarning</key>
@@ -199,7 +199,7 @@
 			<key>moveArchiveTo</key>
 			<string>1</string>
 			<key>name</key>
-			<string>Extract with Cleaning</string>
+			<string>Wypakowanie z oczyszczaniem</string>
 			<key>openExtracted</key>
 			<false/>
 			<key>predicateTag</key>
@@ -211,11 +211,11 @@
 			<key>favorite</key>
 			<true/>
 			<key>folder</key>
-			<string>~Applications</string>
+			<string>~/Applications</string>
 			<key>moveArchiveTo</key>
 			<string>1</string>
 			<key>name</key>
-			<string>Install App for User and Show in Finder</string>
+			<string>Zainstaluj aplikację dla użytkownika i pokaż w Finderze</string>
 			<key>openExtracted</key>
 			<false/>
 			<key>reveal</key>

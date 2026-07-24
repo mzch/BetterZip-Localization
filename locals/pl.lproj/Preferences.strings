@@ -470,13 +470,13 @@
 "ajY-fG-YKc.title" = "Zachowaj nowszy plik";
 
 /* Class = "NSButtonCell"; title = "Cut off extension from save names, e.g., zipping abc.jpg will result in abc.zip, not abc.jpg.zip"; ObjectID = "ALV-bv-Weu"; */
-"ALV-bv-Weu.title" = "Usuń rozszerzenia od zapisywanych nazw, np. spakowanie pliku abc.jpg utworzy plik abc.zip, a nie abc.jpg.zip";
+"ALV-bv-Weu.title" = "Pomijaj oryginalne rozszerzenia nazw przy zapisie, np. plik abc.jpg zostanie spakowany do abc.zip, a nie do abc.jpg.zip";
 
 /* Class = "NSMenuItem"; title = "Skip"; ObjectID = "aQn-2j-vrM"; */
 "aQn-2j-vrM.title" = "Pomiń";
 
 /* Class = "NSButtonCell"; title = "Use relative dates"; ObjectID = "Aqy-fw-Vwd"; Note = "@changed-6.0b2 (previous: \"Do not use relative dates in date cells\")"; */
-"Aqy-fw-Vwd.title" = "Nie używaj względnych dat w komórkach daty";
+"Aqy-fw-Vwd.title" = "Nie używaj dat względnych w polach daty";
 
 /* Class = "NSMenuItem"; title = "2"; ObjectID = "AWk-O6-HDA"; */
 "AWk-O6-HDA.title" = "2";
@@ -614,7 +614,7 @@
 "iVg-aJ-98K.ibShadowedToolTip" = "Dodaj nowe typy plików (⌘N)";
 
 /* Class = "NSButtonCell"; title = "Cut off trailing numbers from save names"; ObjectID = "IwO-cb-gMl"; */
-"IwO-cb-gMl.title" = "Usuwaj końcowe liczby w zapisywanych nazwach";
+"IwO-cb-gMl.title" = "Usuwaj liczby na końcu zapisywanych nazw";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Edit the selected file types (↩︎)"; ObjectID = "j21-Zj-J06"; */
 "j21-Zj-J06.ibShadowedToolTip" = "Edytuj wybrane typy plików (↩︎)";
@@ -638,7 +638,7 @@
 "jsH-n0-78A.title" = "Zapytaj co zrobić";
 
 /* Class = "NSTextFieldCell"; title = "Amount of debug output written to the console:"; ObjectID = "Kd9-xL-lMY"; */
-"Kd9-xL-lMY.title" = "Ilość danych wyjściowych debugowania zapisanych w konsoli:";
+"Kd9-xL-lMY.title" = "Zawartość komunikatów w konsoli:";
 
 /* Class = "NSMenuItem"; title = "Default"; ObjectID = "keP-Bu-gCj"; */
 "keP-Bu-gCj.title" = "Domyślny";
@@ -698,7 +698,7 @@
 "mOB-1s-KZf.ibShadowedToolTip" = "Dodaj nowy wzór (⌘N)";
 
 /* Class = "NSButtonCell"; title = "Display all sizes in kibi-, mebi-, and gibibyte"; ObjectID = "MWZ-CN-jVv"; */
-"MWZ-CN-jVv.title" = "Wyświetl wszystkie rozmiary w kibi-, mebi-, i gibibyte";
+"MWZ-CN-jVv.title" = "Wyświetlaj wszystkie rozmiary w kibi-, mebi- i gibibajtach (1 KB = 1024 bajty)";
 
 /* Class = "NSTabViewItem"; label = "View"; ObjectID = "n0k-7I-0PH"; */
 "n0k-7I-0PH.label" = "Podejrzyj";
@@ -713,7 +713,7 @@
 "Nfe-N7-CWd.headerToolTip" = "Pokaż folder w menu Wypakuj";
 
 /* Class = "NSButtonCell"; title = "Always save with the default preset when clicking the toolbar button, even if the archive is not new"; ObjectID = "nvs-ns-H0J"; Note = "@changed-6.0b2 (previous: \"Always save with the toolbar preset when clicking the toolbar button, even if the archive is not new\")"; */
-"nvs-ns-H0J.title" = "Zawsze zapisuj ustawienia paska narzędzi po kliknięciu przycisku paska narzędzi, nawet jeśli archiwum nie jest nowe";
+"nvs-ns-H0J.title" = "Nawet jeśli archiwum nie jest nowe, po kliknięciu przycisku na pasku narzędzi zawsze zapisuj z profilem paska narzędzi";
 
 /* Class = "NSButtonCell"; alternateTitle = "⭐️"; ObjectID = "oqm-ff-uxe"; */
 "oqm-ff-uxe.alternateTitle" = "⭐️";
@@ -779,7 +779,7 @@
 "rog-PG-dl3.title" = "Nigdy";
 
 /* Class = "NSButtonCell"; title = "Open queue window when starting an operation"; ObjectID = "RTg-RL-ei6"; Note = "@changed-6.0b2 (previous: \"Do not open the queue window when starting a queue operation\")"; */
-"RTg-RL-ei6.title" = "Nie otwieraj okna kolejki podczas uruchamiania operacji kolejkowania";
+"RTg-RL-ei6.title" = "Nie otwieraj okna kolejki podczas uruchamiania operacji kolejkowanych";
 
 /* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Action menu button"; ObjectID = "rWO-92-XTC"; */
 "rWO-92-XTC.ibExternalAccessibilityDescription" = "Przycisk menu akcji";
@@ -1067,7 +1067,7 @@
 /* Class = "NSMenuItem"; title = "Skip"; ObjectID = "RTq-fQ-XrC"; Note = "@new-6.0b2"; */
 "RTq-fQ-XrC.title" = "Pomiń";
 /* Class = "NSButtonCell"; title = "Reset learned progress weights"; ObjectID = "RUb-Tw-eLd"; Note = "@new-6.0b2"; */
-"RUb-Tw-eLd.title" = "Zresetuj wyuczone wagi postępu";
+"RUb-Tw-eLd.title" = "Wyzeruj dane zwiększające dokładność wyświetlania pasków postępu";
 /* Class = "NSButtonCell"; title = "Show additional actions"; ObjectID = "SAA-CC-002"; Note = "@new-6.0b2"; */
 "SAA-CC-002.title" = "Pokaż dodatkowe akcje";
 /* Class = "NSButtonCell"; title = "Show only the default extract or compress action"; ObjectID = "SFE-CC-002"; Note = "@new-6.0b2"; */

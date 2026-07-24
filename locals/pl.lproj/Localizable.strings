@@ -375,7 +375,7 @@ button */
 "Files" = "Pliki";
 
 /* Preferences tab title */
-"Filtering" = "Filtracja";
+"Filtering" = "Filtrowanie";
 
 "Finishing…" = "Kończe…";
 
@@ -515,7 +515,7 @@ button */
 "Permission denied" = "Odmowa dostępu";
 
 /* Preferences tab title */
-"Places" = "Miejsca";
+"Places" = "Lokalizacje";
 
 "Please set the correct path in Settings > Helpers or choose a different format for saving." = "Proszę wybrać prawidłową ścieżkę dostępu w Ustawieniach > Dodatki, lub wybierz inny format archiwum.";
 
@@ -903,7 +903,7 @@ conflict action */
 "Replace or Add?" = "Zastąpić czy dodać?";
 "Replace space with _" = "Zamień spację na _";
 "Reset" = "Zresetuj";
-"Reset Learned Progress Weights?" = "Zresetować wyuczone wagi postępu?";
+"Reset Learned Progress Weights?" = "Wyzerować dane zwiększające dokładność wyświetlania pasków postępu?";
 "Reset Password Manager" = "Zresetuj menedżer haseł";
 "Reveal" = "Pokaż";
 "Running shortcut" = "Uruchamianie skrótu";

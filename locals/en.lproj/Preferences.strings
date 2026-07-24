@@ -41,17 +41,17 @@
 /* Class = "NSButtonCell"; title = "Additional setting"; ObjectID = "1405"; */
 "1405.title" = "Additional setting";
 
-/* Class = "NSButtonCell"; title = "Download & Install Rar"; ObjectID = "1415"; */
-"1415.title" = "Download & Install Rar";
+/* Class = "NSButtonCell"; title = "Download & Install RAR"; ObjectID = "1415"; */
+"1415.title" = "Download & Install RAR";
 
-/* Class = "NSTextFieldCell"; title = "BetterZip can use the external rar program to create rar archives. Rar itself has to be purchased from win.rar GmbH separately. "; ObjectID = "1417"; */
-"1417.title" = "BetterZip can use the external rar program to create rar archives. Rar itself has to be purchased from win.rar GmbH separately. ";
+/* Class = "NSTextFieldCell"; title = "BetterZip can use the external RAR program to create RAR archives. RAR itself has to be purchased from win.rar GmbH separately. "; ObjectID = "1417"; */
+"1417.title" = "BetterZip can use the external RAR program to create RAR archives. RAR itself has to be purchased from win.rar GmbH separately. ";
 
 /* Class = "NSButtonCell"; title = "Browse"; ObjectID = "1418"; */
 "1418.title" = "Browse";
 
-/* Class = "NSTextFieldCell"; title = "Path to the rar program:"; ObjectID = "1419"; */
-"1419.title" = "Path to the rar program:";
+/* Class = "NSTextFieldCell"; title = "Path to the RAR program:"; ObjectID = "1419"; */
+"1419.title" = "Path to the RAR program:";
 
 /* Class = "NSTextFieldCell"; title = "Manage your filters"; ObjectID = "1420"; */
 "1420.title" = "Manage your filters";
