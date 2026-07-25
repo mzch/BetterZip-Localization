@@ -298,6 +298,9 @@
 /* Class = "NSMenuItem"; title = "Hide Empty Folders"; ObjectID = "MIB-he-fld"; Note = "@new-6.0b2"; */
 "MIB-he-fld.title" = "Ocultar carpetas vacías";
 
+/* Class = "NSMenuItem"; title = "Show Info"; ObjectID = "MIB-ia-tgl"; Note = "@new-6.0.2"; */
+"MIB-ia-tgl.title" = "Mostrar información";
+
 /* Class = "NSMenuItem"; title = "Show Hashes"; ObjectID = "MIB-hr-tgl"; Note = "@new-6.0b2"; */
 "MIB-hr-tgl.title" = "Mostrar sumas de verificación";
 

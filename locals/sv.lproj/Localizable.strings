@@ -1518,3 +1518,10 @@ conflict action */
 /* @new-6.0b6 – titlebar sidebar/preview toggle button tooltips & accessibility labels (ZipDocument) */
 "Show or hide the sidebar" = "Visa eller göm sidofältet";
 "Show or hide the preview" = "Visa eller göm förhandsvisningen";
+
+/* @new-6.0.2 – Archive Types: offer to pick another app when no other handler exists (PreferenceController) */
+"No Other App Available" = "Ingen annan app tillgänglig";
+"No other app on this Mac can open “%@”. macOS needs a default app for every file type, so BetterZip stays the handler unless you choose another app." = "Ingen annan app på den här datorn kan öppna ”%@”. macOS behöver en standardapp för varje filtyp, så BetterZip förblir appen som hanterar filtypen om du inte väljer en annan app.";
+"Choose Another App…" = "Välj en annan app…";
+"Keep BetterZip" = "Behåll BetterZip";
+"Choose" = "Välj";

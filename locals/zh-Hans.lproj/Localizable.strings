@@ -1018,3 +1018,10 @@ conflict action */
 "Toggle Preview" = "切换预览";
 "Show or hide the sidebar" = "显示或隐藏边栏";
 "Show or hide the preview" = "显示或隐藏预览";
+
+/* @new-6.0.2 – Archive Types: offer to pick another app when no other handler exists (PreferenceController) */
+"No Other App Available" = "没有其他可用的应用";
+"No other app on this Mac can open “%@”. macOS needs a default app for every file type, so BetterZip stays the handler unless you choose another app." = "此 Mac 上没有其他应用可以打开“%@”。macOS 需要为每种文件类型指定一个默认应用，因此除非您选择其他应用，否则 BetterZip 仍将作为处理程序。";
+"Choose Another App…" = "选择其他应用…";
+"Keep BetterZip" = "保留 BetterZip";
+"Choose" = "选择";

@@ -1279,3 +1279,10 @@ conflict action */
 "WIM Archive" = "WIM 壓縮檔";
 
 "⚠️ (older)" = "⚠️（較舊）";
+
+/* @new-6.0.2 – Archive Types: offer to pick another app when no other handler exists (PreferenceController) */
+"No Other App Available" = "沒有其他可用的應用程式";
+"No other app on this Mac can open “%@”. macOS needs a default app for every file type, so BetterZip stays the handler unless you choose another app." = "此 Mac 上沒有其他應用程式可以開啟「%@」。macOS 需要為每種檔案類型指定預設應用程式，因此除非你選擇其他應用程式，否則 BetterZip 仍會是處理程式。";
+"Choose Another App…" = "選擇其他應用程式…";
+"Keep BetterZip" = "保留 BetterZip";
+"Choose" = "選擇";

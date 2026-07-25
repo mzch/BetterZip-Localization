@@ -552,3 +552,10 @@
 "Toggle Preview" = "Toggle Preview";
 "Show or hide the sidebar" = "Show or hide the sidebar";
 "Show or hide the preview" = "Show or hide the preview";
+
+/* @new-6.0.2 – Archive Types: offer to pick another app when no other handler exists (PreferenceController) */
+"No Other App Available" = "No Other App Available";
+"No other app on this Mac can open “%@”. macOS needs a default app for every file type, so BetterZip stays the handler unless you choose another app." = "No other app on this Mac can open “%@”. macOS needs a default app for every file type, so BetterZip stays the handler unless you choose another app.";
+"Choose Another App…" = "Choose Another App…";
+"Keep BetterZip" = "Keep BetterZip";
+"Choose" = "Choose";

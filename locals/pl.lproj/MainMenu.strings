@@ -336,6 +336,9 @@
 "MIB-fp-Prev.title" = "Uaktywnij poprzedni panel";
 /* Class = "NSMenuItem"; title = "Hide Empty Folders"; ObjectID = "MIB-he-fld"; Note = "@new-6.0b2"; */
 "MIB-he-fld.title" = "Ukryj puste foldery";
+/* Class = "NSMenuItem"; title = "Show Info"; ObjectID = "MIB-ia-tgl"; Note = "@new-6.0.2"; */
+"MIB-ia-tgl.title" = "Pokaż informacje";
+
 /* Class = "NSMenuItem"; title = "Show Hashes"; ObjectID = "MIB-hr-tgl"; Note = "@new-6.0b2"; */
 "MIB-hr-tgl.title" = "Pokaż sumy kontrolne";
 /* Class = "NSMenuItem"; title = "Icon View"; ObjectID = "mib-icon-view"; Note = "@new-6.0b2"; */

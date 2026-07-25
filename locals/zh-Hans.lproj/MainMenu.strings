@@ -304,6 +304,9 @@
 /* Class = "NSMenuItem"; title = "Hide Empty Folders"; ObjectID = "MIB-he-fld"; Note = "@new-6.0b2; @new-6.0b4"; */
 "MIB-he-fld.title" = "隐藏空文件夹";
 
+/* Class = "NSMenuItem"; title = "Show Info"; ObjectID = "MIB-ia-tgl"; Note = "@new-6.0.2"; */
+"MIB-ia-tgl.title" = "显示信息";
+
 /* Class = "NSMenuItem"; title = "Show Hashes"; ObjectID = "MIB-hr-tgl"; Note = "@new-6.0b2; @new-6.0b4"; */
 "MIB-hr-tgl.title" = "显示哈希值";
 
